@@ -1,4 +1,5 @@
-VERSION NUEVA = 1.5
-DESCARGA = https://github.com/edgarescurraaux-rgb/suite-versiones/releases/download/v1.5/SuiteExpress.exe
-HUELLA = 8342ac20b0f83cc9637babdf138101b96d69786f0285d086736f9e43d5262e9f
-PUBLICADO = 16/11/2026 13:39
+VERSION NUEVA = 1.6
+DESCARGA = https://github.com/edgarescurraaux-rgb/suite-versiones/releases/download/v1.6/SuiteExpress.exe
+HUELLA = 09a6eb9bfacb7a530c1b01f3188e6b5938231f6f034b42559a986e2bf2739579
+PUBLICADO = 17/11/2026 15:28
+NOTAS = ARRELO DE BUG DEL SECTOR DE PREMIOS
